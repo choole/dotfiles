@@ -1,0 +1,11 @@
+*{
+    all:unset;
+}
+.todo{
+    padding: 1rem;
+}
+
+button:hover{
+    color: $highpriotaskdate;
+}
+

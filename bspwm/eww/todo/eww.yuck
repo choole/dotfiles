@@ -1,0 +1,6 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Here goes importing of everything made;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(include "./src/yuck/_windows.yuck")
+;(include "./src/yuck/_widgets.yuck")
+;(include "./src/yuck/_variables.yuck")

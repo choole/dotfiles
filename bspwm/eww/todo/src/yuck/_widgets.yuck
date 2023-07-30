@@ -1,0 +1,27 @@
+(defwidget task []
+(box  :orientation "v"
+         :space-evenly "false"
+         :class "taskbutton"
+(button :orientation "h"
+        :space-evenly "false"
+        :onclick {UPDATE_DONE}
+        :onrightclick {UPDATE_INPROGRESS})
+(box    :orientation "h"
+        :space-evenly "false"
+        :class "task"{TASKNAME})
+(box    :orientation "h"
+        :space-evenly "false"
+        :class "taskdate" {DATE})
+    )
+)
+(defwidget todo[]
+(box    :orientation "h"
+        :class "todo"
+        :space-evenly "false"
+(box    :orientation "v"
+        :space-evenly "false"
+        (smth)
+        (task))
+
+    )
+)
