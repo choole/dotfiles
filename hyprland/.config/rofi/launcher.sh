@@ -1,0 +1,1 @@
+/home/arch_enjoyer/.config/rofi/launchers/type-6/launcher.sh

@@ -1,0 +1,67 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CPP.NewCppFile">
+      <i c="1" l="1699104194259" />
+    </e>
+    <e n="Debug">
+      <i c="3" l="1699104350660" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="15" l="1699105978289" />
+    </e>
+    <e n="EditorCopy">
+      <i c="11" l="1699104473499" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1699104246155" />
+    </e>
+    <e n="EditorLeft">
+      <i c="6" l="1699105977876" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="17" l="1699104341538" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="9" l="1699104335088" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1699105954594" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="1" l="1699104329369" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="12" l="1699104325727" />
+    </e>
+    <e n="EditorRight">
+      <i c="6" l="1699105974077" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1699104216827" />
+    </e>
+    <e n="Run">
+      <i c="4" l="1699104380998" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1699105979296" />
+    </e>
+    <e n="StepInto">
+      <i c="2" l="1699104358868" />
+    </e>
+    <e n="StepOver">
+      <i c="3" l="1699104284291" />
+    </e>
+    <e n="Stop">
+      <i c="3" l="1699104379988" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1699105967866" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1699104214030" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1699104125787" />
+    </e>
+  </component>
+</application>

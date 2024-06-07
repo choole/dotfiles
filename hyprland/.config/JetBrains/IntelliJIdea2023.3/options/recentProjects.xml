@@ -1,0 +1,89 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Test – Main.java" projectWorkspaceId="2eF6iy1lVqBYlnrhcIKQWuCT189">
+              <option name="activationTimestamp" value="1711488203273" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.15026.9" />
+              <option name="buildTimestamp" value="1710997500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="969" y="64" width="937" height="1002" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1711488111928" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/TEST1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="TEST1 – JuTest1_3_Anagrams.java" projectWorkspaceId="2eF79Y7duxepKcls9rMt6ivf97C">
+              <option name="activationTimestamp" value="1711490431009" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.15026.9" />
+              <option name="buildTimestamp" value="1710997500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="969" y="64" width="937" height="1002" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1711488323660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/assignment01">
+          <value>
+            <RecentProjectMetaInfo frameTitle="assignment01 – Exercise1_3_Anagrams.java" projectWorkspaceId="2e2HVscjPp19X3XApcOouGD1Eqw">
+              <option name="activationTimestamp" value="1711491346543" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.15026.9" />
+              <option name="buildTimestamp" value="1710997500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="969" y="64" width="937" height="1002" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1711490431401" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/assignment01">
+          <value>
+            <RecentProjectMetaInfo frameTitle="assignment01 – Exercise1_3_Anagrams.java" projectWorkspaceId="2eFDHSPAQVitBnGandkVZs83NBS">
+              <option name="activationTimestamp" value="1711492150401" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.15026.9" />
+              <option name="buildTimestamp" value="1710997500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="14" y="64" width="937" height="1002" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1711491346839" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Assignment1">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2eFEuXjCWzI6YEjee7FSGQtp6Eq">
+              <option name="activationTimestamp" value="1711493071619" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.15026.9" />
+              <option name="buildTimestamp" value="1710997500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1711492150779" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Downloads/Assignment1" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Downloads" />
+  </component>
+</application>

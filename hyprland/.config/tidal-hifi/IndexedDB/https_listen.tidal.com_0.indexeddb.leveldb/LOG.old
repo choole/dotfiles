@@ -1,0 +1,111 @@
+2024/02/07-13:17:54.435 a62d Reusing MANIFEST /home/arch_enjoyer/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/07-13:17:54.436 a62d Recovering log #84
+2024/02/07-13:17:54.444 a62d Reusing old log /home/arch_enjoyer/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/000084.log 
+2024/02/07-13:34:30.201 a62e Level-0 table #89: started
+2024/02/07-13:34:30.212 a62e Level-0 table #89: 1091548 bytes OK
+2024/02/07-13:34:30.214 a62e Delete type=0 #84
+2024/02/07-13:50:24.709 a62b Compacting 1@1 + 1@2 files
+2024/02/07-13:50:24.714 a62b Generated table #90@1: 260 keys, 34954 bytes
+2024/02/07-13:50:24.714 a62b Compacted 1@1 + 1@2 files => 34954 bytes
+2024/02/07-13:50:24.716 a62b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-14:58:23.843 a62e Level-0 table #92: started
+2024/02/07-14:58:23.855 a62e Level-0 table #92: 1256177 bytes OK
+2024/02/07-14:58:23.858 a62e Delete type=2 #86
+2024/02/07-14:58:23.858 a62e Delete type=0 #88
+2024/02/07-14:58:23.858 a62e Delete type=2 #89
+2024/02/07-14:58:53.851 a62b Compacting 1@1 + 1@2 files
+2024/02/07-14:58:53.856 a62b Generated table #93@1: 260 keys, 35118 bytes
+2024/02/07-14:58:53.856 a62b Compacted 1@1 + 1@2 files => 35118 bytes
+2024/02/07-14:58:53.858 a62b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-15:26:54.488 a62d Level-0 table #95: started
+2024/02/07-15:26:54.497 a62d Level-0 table #95: 1042099 bytes OK
+2024/02/07-15:26:54.500 a62d Delete type=2 #90
+2024/02/07-15:26:54.500 a62d Delete type=0 #91
+2024/02/07-15:26:54.500 a62d Delete type=2 #92
+2024/02/07-15:44:38.856 a62d Compacting 1@1 + 1@2 files
+2024/02/07-15:44:38.860 a62d Generated table #96@1: 260 keys, 34227 bytes
+2024/02/07-15:44:38.860 a62d Compacted 1@1 + 1@2 files => 34227 bytes
+2024/02/07-15:44:38.861 a62d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-15:44:38.861 a62d Delete type=2 #93
+2024/02/07-15:44:38.861 a62d Delete type=2 #95
+2024/02/07-15:59:44.057 a62b Level-0 table #98: started
+2024/02/07-15:59:44.070 a62b Level-0 table #98: 1237223 bytes OK
+2024/02/07-15:59:44.074 a62b Delete type=0 #94
+2024/02/07-16:00:04.133 a62e Compacting 1@1 + 1@2 files
+2024/02/07-16:00:04.138 a62e Generated table #99@1: 262 keys, 43569 bytes
+2024/02/07-16:00:04.139 a62e Compacted 1@1 + 1@2 files => 43569 bytes
+2024/02/07-16:00:04.140 a62e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-16:00:04.140 a62e Delete type=2 #96
+2024/02/07-16:00:04.140 a62e Delete type=2 #98
+2024/02/07-16:03:13.865 a62d Level-0 table #101: started
+2024/02/07-16:03:13.877 a62d Level-0 table #101: 1134955 bytes OK
+2024/02/07-16:03:13.880 a62d Delete type=0 #97
+2024/02/07-16:03:23.862 a62b Compacting 1@1 + 1@2 files
+2024/02/07-16:03:23.866 a62b Generated table #102@1: 256 keys, 47216 bytes
+2024/02/07-16:03:23.866 a62b Compacted 1@1 + 1@2 files => 47216 bytes
+2024/02/07-16:03:23.868 a62b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-16:03:23.868 a62b Delete type=2 #99
+2024/02/07-16:03:23.868 a62b Delete type=2 #101
+2024/02/07-16:18:33.624 a62b Level-0 table #104: started
+2024/02/07-16:18:33.634 a62b Level-0 table #104: 982365 bytes OK
+2024/02/07-16:18:33.637 a62b Delete type=0 #100
+2024/02/07-16:23:56.461 a62e Compacting 1@1 + 1@2 files
+2024/02/07-16:23:56.465 a62e Generated table #105@1: 260 keys, 54433 bytes
+2024/02/07-16:23:56.465 a62e Compacted 1@1 + 1@2 files => 54433 bytes
+2024/02/07-16:23:56.467 a62e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-16:23:56.467 a62e Delete type=2 #102
+2024/02/07-16:23:56.468 a62e Delete type=2 #104
+2024/02/07-16:36:57.733 a62e Level-0 table #107: started
+2024/02/07-16:36:57.743 a62e Level-0 table #107: 928354 bytes OK
+2024/02/07-16:36:57.745 a62e Delete type=0 #103
+2024/02/07-17:16:55.296 a62e Compacting 1@1 + 1@2 files
+2024/02/07-17:16:55.301 a62e Generated table #108@1: 260 keys, 56451 bytes
+2024/02/07-17:16:55.301 a62e Compacted 1@1 + 1@2 files => 56451 bytes
+2024/02/07-17:16:55.303 a62e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-17:16:55.303 a62e Delete type=2 #105
+2024/02/07-17:16:55.303 a62e Delete type=2 #107
+2024/02/07-17:47:38.884 a62e Level-0 table #110: started
+2024/02/07-17:47:38.893 a62e Level-0 table #110: 909713 bytes OK
+2024/02/07-17:47:38.896 a62e Delete type=0 #106
+2024/02/07-17:48:00.005 a62d Compacting 1@1 + 1@2 files
+2024/02/07-17:48:00.010 a62d Generated table #111@1: 260 keys, 60974 bytes
+2024/02/07-17:48:00.010 a62d Compacted 1@1 + 1@2 files => 60974 bytes
+2024/02/07-17:48:00.011 a62d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-17:48:00.012 a62d Delete type=2 #108
+2024/02/07-17:48:00.012 a62d Delete type=2 #110
+2024/02/07-17:54:33.218 a62d Level-0 table #113: started
+2024/02/07-17:54:33.227 a62d Level-0 table #113: 931438 bytes OK
+2024/02/07-17:54:33.229 a62d Delete type=0 #109
+2024/02/07-17:58:08.838 a62d Compacting 1@1 + 1@2 files
+2024/02/07-17:58:08.843 a62d Generated table #114@1: 256 keys, 55776 bytes
+2024/02/07-17:58:08.843 a62d Compacted 1@1 + 1@2 files => 55776 bytes
+2024/02/07-17:58:08.845 a62d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-18:15:08.844 a62e Level-0 table #116: started
+2024/02/07-18:15:08.851 a62e Level-0 table #116: 893781 bytes OK
+2024/02/07-18:15:08.853 a62e Delete type=2 #111
+2024/02/07-18:15:08.853 a62e Delete type=0 #112
+2024/02/07-18:15:08.853 a62e Delete type=2 #113
+2024/02/07-18:23:15.778 a62b Compacting 1@1 + 1@2 files
+2024/02/07-18:23:15.782 a62b Generated table #117@1: 260 keys, 59024 bytes
+2024/02/07-18:23:15.782 a62b Compacted 1@1 + 1@2 files => 59024 bytes
+2024/02/07-18:23:15.784 a62b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-18:23:15.784 a62b Delete type=2 #114
+2024/02/07-18:23:15.784 a62b Delete type=2 #116
+2024/02/07-18:28:25.431 a62d Level-0 table #119: started
+2024/02/07-18:28:25.438 a62d Level-0 table #119: 896240 bytes OK
+2024/02/07-18:28:25.440 a62d Delete type=0 #115
+2024/02/07-18:41:56.014 a62b Compacting 1@1 + 1@2 files
+2024/02/07-18:41:56.017 a62b Generated table #120@1: 256 keys, 62573 bytes
+2024/02/07-18:41:56.017 a62b Compacted 1@1 + 1@2 files => 62573 bytes
+2024/02/07-18:41:56.019 a62b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-18:41:56.019 a62b Delete type=2 #117
+2024/02/07-18:41:56.019 a62b Delete type=2 #119
+2024/02/08-11:32:23.274 a62e Level-0 table #122: started
+2024/02/08-11:32:23.283 a62e Level-0 table #122: 897671 bytes OK
+2024/02/08-11:32:23.284 a62e Delete type=0 #118
+2024/02/08-11:57:25.618 a62e Compacting 1@1 + 1@2 files
+2024/02/08-11:57:25.622 a62e Generated table #123@1: 261 keys, 66705 bytes
+2024/02/08-11:57:25.622 a62e Compacted 1@1 + 1@2 files => 66705 bytes
+2024/02/08-11:57:25.623 a62e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/08-11:57:25.624 a62e Delete type=2 #120
+2024/02/08-11:57:25.624 a62e Delete type=2 #122

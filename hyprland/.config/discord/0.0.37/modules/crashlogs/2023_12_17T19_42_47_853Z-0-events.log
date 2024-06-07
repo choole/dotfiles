@@ -1,0 +1,8 @@
+2023-12-17T19:42:47.860Z 0: 
+
+----------------------------------------------
+2023-12-17T19:42:47.875Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/arch_enjoyer/.config/discord/0.0.37/modules
+2023-12-17T19:42:47.881Z 2: ✅ webContents.created web1 ""
+2023-12-17T19:42:47.894Z 3: ✅ window.created win1 "discord"
+2023-12-17T19:42:48.191Z 4: ✅ webContents.did-finish-load web1
+2023-12-17T19:42:50.413Z 5: window.close win1

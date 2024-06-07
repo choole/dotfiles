@@ -1,0 +1,21 @@
+00:00:00.538708 VirtualBox GUI VM Selector Window 7.0.18 r162988 linux.amd64 (May  3 2024 17:29:05) release log
+00:00:00.538709 Log opened 2024-06-03T07:59:40.355270000Z
+00:00:00.538709 Build Type: release
+00:00:00.538711 OS Product: Linux
+00:00:00.538711 OS Release: 6.9.3-arch1-1
+00:00:00.538712 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 31 May 2024 15:14:45 +0000
+00:00:00.538740 DMI Product Name: HP ENVY x360 Convertible 15-eu0xxx
+00:00:00.538748 DMI Product Version: 
+00:00:00.538754 Firmware type: UEFI
+00:00:00.538919 Secure Boot: Disabled
+00:00:00.538957 Host RAM: 15309MB (14.9GB) total, 13713MB (13.3GB) available
+00:00:00.538959 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.538959 Process ID: 5892
+00:00:00.538959 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.538986 Qt version: 5.15.14
+00:00:00.539632 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.547500 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.999243 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.056566 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 480x70 x 960x540
+00:00:02.768715 GUI: UICommon: Handling aboutToQuit request..
+00:00:03.805377 GUI: UICommon: aboutToQuit request handled!

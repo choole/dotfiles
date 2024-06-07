@@ -1,0 +1,15 @@
+[Added Associations]
+text/html=firefox.desktop;libreoffice-writer.desktop;
+application/x-zerosize=org.xfce.ristretto.desktop;
+application/x-msi=heroic.desktop;
+application/epub+zip=calibre-gui.desktop;
+application/xhtml+xml=firefox.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+application/pdf=firefox.desktop;org.pwmt.zathura.desktop;
+image/png=org.xfce.ristretto.desktop;
+image/jpeg=org.xfce.ristretto.desktop;
+
+[Default Applications]
+application/x-zerosize=org.xfce.ristretto.desktop
+x-scheme-handler/notion=notion-app.desktop
+application/x-msi=heroic.desktop

@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Link conf file based on passed parameter
+direction=$1  # Removed the unnecessary space after '='
+
+ln -sf ~/.config/waybar/conf/"$direction"/config.jsonc ~/.config/waybar/config  # Enclosed $direction in double quotes to handle possible spaces in the directory name
+
+# Link style css files based on vertical/horizontal 
+if [ "$direction" == "left" ] || [ "$direction" == "right" ]; then  # Added spaces after '[' and before ']' and corrected the 'then' statement
+    ln -sf ~/.config/waybar/style/vertical/style.css ~/.config/waybar/style/style.css
+    ln -sf ~/.config/waybar/style/vertical/style-dark.css ~/.config/waybar/style/style-dark.css
+else
+    ln -sf ~/.config/waybar/style/horizontal/style.css ~/.config/waybar/style/style.css
+    ln -sf ~/.config/waybar/style/horizontal/style-dark.css ~/.config/waybar/style/style-dark.css
+fi
+
+THEMEIS=$(basename $(readlink -f ~/.config/waybar/style.css) | cut -d '-' -f2)  # Corrected the path and added 'basename' to get the filename
+if [ "$THEMEIS" != "dark.css" ]; then
+    SWITCHTO="-dark"
+fi
+ln -sf ~/.config/waybar/style/style$SWITCHTO.css ~/.config/waybar/style.css
+
+sh ~/.config/waybar/launch.sh

@@ -1,0 +1,166 @@
+* {
+    font-family: "OverpassM Nerd Font";
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #cacbcf;
+    border: none;
+    border-radius: 20px;
+    margin-left: 2px;
+}
+
+window#waybar {
+    background: rgba(21, 18, 27, 0);
+    color: #f6f6ee;
+    border-radius: 0;
+}
+
+tooltip * {
+    /* background: #1a1b26; */
+    background: #cacbcf;
+    opacity: 0.8;
+    color: #313244;
+}
+
+#workspaces button {
+    color: #313244;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#workspaces button.focused {
+    color: #a6adc8;
+}
+
+#workspaces button.active {
+    color: #131415;
+}
+
+#workspaces button.urgent {
+    color: #11111b;
+    background: #a6e3a1;
+}
+
+#workspaces button:hover {
+    color: #000000;
+    background-color: #e1e2e7;
+}
+
+#custom-light_dark,
+#custom-launch_rofi,
+#custom-weather,
+#window,
+#clock,
+#disk,
+#cpu,
+#custom-updates,
+#custom-lock_screen,
+#custom-pacman,
+#memory,
+#battery,
+#pulseaudio,
+#temperature,
+#workspaces,
+#tray,
+#backlight {
+    opacity: 0.9;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin: 2px 0px;
+}
+
+#temperature {
+    border-radius: 10px 0px 0px 10px;
+    color: #313244;
+}
+
+#temperature.critical {
+    color: #f52a65;
+}
+
+#custom-launch_rofi {
+    color: #3760bf;
+    margin-top: 8px;
+}
+
+#backlight {
+    border-radius: 10px 0px 0px 10px;
+    color: #313244;
+}
+
+#tray {
+    border-radius: 10px 0px 0px 10px;
+    color: #161617;
+}
+
+#custom-lock_screen {
+    color: #97e023;
+    border-radius: 10px 0px 0px 10px;
+}
+
+#cpu {
+    color: #b15c00;
+    border-radius: 0px;
+    border-left: 0px;
+}
+
+#memory {
+    color: #007197;
+    border-radius: 0px;
+    border-left: 0px;
+}
+
+#disk {
+    color: #2e7de9;
+    border-radius: 0px 10px 10px 0px;
+    border-left: 0px;
+}
+
+#custom-updates {
+    border-radius: 10px;
+}
+
+#workspaces {
+    border-radius: 10px;
+}
+
+#custom-light_dark {
+    margin-bottom: 8px;
+    color: #313244;
+}
+
+#window {
+    border-radius: 10px;
+}
+
+#clock {
+    color: #8c6c3e;
+    border-radius: 10px;
+}
+
+#pulseaudio {
+    color: #2e7de9;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0px 0px;
+}
+
+#pulseaudio.microphone {
+    color: #bb9af7;
+    border-radius: 0px 10px 10px 0px;
+}
+
+#battery {
+    color: #587539;
+    border-radius: 0 10px 10px 0;
+    border-left: 0px;
+}
+
+#custom-weather {
+    border-radius: 0px 10px 10px 0px;
+    border-right: 0px;
+    margin-left: 0px;
+}
+
+#custom-pacman {
+    color: #62646d;
+}

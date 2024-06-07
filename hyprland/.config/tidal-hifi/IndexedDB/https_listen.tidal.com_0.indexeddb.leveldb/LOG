@@ -1,0 +1,33 @@
+2024/05/16-13:22:02.288 12d2 Reusing MANIFEST /home/arch_enjoyer/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/16-13:22:02.288 12d2 Recovering log #121
+2024/05/16-13:22:02.295 12d2 Reusing old log /home/arch_enjoyer/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/000121.log 
+2024/05/16-13:22:56.187 12d4 Level-0 table #126: started
+2024/05/16-13:22:56.197 12d4 Level-0 table #126: 961253 bytes OK
+2024/05/16-13:22:56.200 12d4 Delete type=0 #121
+2024/05/16-13:23:20.934 12d4 Compacting 1@1 + 1@2 files
+2024/05/16-13:23:20.940 12d4 Generated table #127@1: 278 keys, 67857 bytes
+2024/05/16-13:23:20.941 12d4 Compacted 1@1 + 1@2 files => 67857 bytes
+2024/05/16-13:23:20.942 12d4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-13:23:20.942 12d4 Delete type=2 #123
+2024/05/16-13:23:20.942 12d4 Delete type=2 #126
+2024/05/16-13:27:38.405 12d4 Level-0 table #129: started
+2024/05/16-13:27:38.412 12d4 Level-0 table #129: 881984 bytes OK
+2024/05/16-13:27:38.414 12d4 Delete type=0 #125
+2024/05/16-13:30:51.389 12d4 Compacting 1@1 + 1@2 files
+2024/05/16-13:30:51.394 12d4 Generated table #130@1: 278 keys, 60495 bytes
+2024/05/16-13:30:51.394 12d4 Compacted 1@1 + 1@2 files => 60495 bytes
+2024/05/16-13:30:51.396 12d4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-13:34:06.381 12d4 Level-0 table #132: started
+2024/05/16-13:34:06.388 12d4 Level-0 table #132: 889782 bytes OK
+2024/05/16-13:34:06.390 12d4 Delete type=2 #127
+2024/05/16-13:34:06.390 12d4 Delete type=0 #128
+2024/05/16-13:34:06.390 12d4 Delete type=2 #129
+2024/05/16-13:41:40.130 12d4 Level-0 table #134: started
+2024/05/16-13:41:40.137 12d4 Level-0 table #134: 886257 bytes OK
+2024/05/16-13:41:40.139 12d4 Delete type=0 #131
+2024/05/16-13:44:05.480 12d4 Compacting 1@0 + 1@1 files
+2024/05/16-13:44:05.485 12d4 Generated table #135@0: 742 keys, 60780 bytes
+2024/05/16-13:44:05.485 12d4 Compacted 1@0 + 1@1 files => 60780 bytes
+2024/05/16-13:44:05.486 12d4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/16-13:44:05.487 12d4 Delete type=2 #132
+2024/05/16-13:44:05.487 12d4 Delete type=2 #134

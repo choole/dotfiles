@@ -1,0 +1,51 @@
+2023/08/11-16:04:06.630 46db Reusing MANIFEST /home/arch_enjoyer/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2023/08/11-16:04:18.907 475c Level-0 table #5: started
+2023/08/11-16:04:18.912 475c Level-0 table #5: 300205 bytes OK
+2023/08/11-16:04:18.914 475c Delete type=0 #3
+2023/08/11-16:05:07.582 4765 Level-0 table #7: started
+2023/08/11-16:05:07.589 4765 Level-0 table #7: 446122 bytes OK
+2023/08/11-16:05:07.591 4765 Delete type=0 #4
+2023/08/11-16:05:34.239 4765 Level-0 table #9: started
+2023/08/11-16:05:34.255 4765 Level-0 table #9: 743942 bytes OK
+2023/08/11-16:05:34.257 4765 Delete type=0 #6
+2023/08/11-16:07:07.569 4765 Level-0 table #11: started
+2023/08/11-16:07:07.572 4765 Level-0 table #11: 13661 bytes OK
+2023/08/11-16:07:07.573 4765 Delete type=0 #8
+2023/08/11-16:08:07.570 475c Level-0 table #13: started
+2023/08/11-16:08:07.571 475c Level-0 table #13: 18009 bytes OK
+2023/08/11-16:08:07.573 475c Delete type=0 #10
+2023/08/11-16:08:37.507 4b47 Level-0 table #15: started
+2023/08/11-16:08:37.509 4b47 Level-0 table #15: 15067 bytes OK
+2023/08/11-16:08:37.510 4b47 Delete type=0 #12
+2023/08/11-16:08:37.510 475d Compacting 4@0 + 1@1 files
+2023/08/11-16:08:37.538 475d Generated table #16@0: 143 keys, 765002 bytes
+2023/08/11-16:08:37.538 475d Compacted 4@0 + 1@1 files => 765002 bytes
+2023/08/11-16:08:37.539 475d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/11-16:08:37.540 475d Delete type=2 #7
+2023/08/11-16:08:37.540 475d Delete type=2 #9
+2023/08/11-16:08:37.540 475d Delete type=2 #11
+2023/08/11-16:08:37.540 475d Delete type=2 #13
+2023/08/11-16:08:37.540 475d Delete type=2 #15
+2023/08/11-16:09:11.426 475d Level-0 table #18: started
+2023/08/11-16:09:11.428 475d Level-0 table #18: 17434 bytes OK
+2023/08/11-16:09:11.429 475d Delete type=0 #14
+2023/08/11-16:16:07.569 4e7f Level-0 table #20: started
+2023/08/11-16:16:07.570 4e7f Level-0 table #20: 10497 bytes OK
+2023/08/11-16:16:07.572 4e7f Delete type=0 #17
+2023/08/11-16:34:30.719 4deb Level-0 table #22: started
+2023/08/11-16:34:30.721 4deb Level-0 table #22: 10393 bytes OK
+2023/08/11-16:34:30.723 4deb Delete type=0 #19
+2023/08/11-16:54:30.704 4deb Level-0 table #24: started
+2023/08/11-16:54:30.706 4deb Level-0 table #24: 15933 bytes OK
+2023/08/11-16:54:30.708 4deb Delete type=0 #21
+2023/08/11-16:54:30.709 4e7f Compacting 4@0 + 1@1 files
+2023/08/11-16:54:30.731 4e7f Generated table #25@0: 213 keys, 770714 bytes
+2023/08/11-16:54:30.731 4e7f Compacted 4@0 + 1@1 files => 770714 bytes
+2023/08/11-16:54:30.732 4e7f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/11-16:54:30.732 4e7f Delete type=2 #16
+2023/08/11-16:54:30.732 4e7f Delete type=2 #18
+2023/08/11-16:54:30.732 4e7f Delete type=2 #20
+2023/08/11-16:54:30.732 4e7f Delete type=2 #22
+2023/08/11-16:54:30.732 4e7f Delete type=2 #24
+2023/08/11-16:57:03.354 6152 Level-0 table #27: started
+2023/08/11-16:57:03.355 6152 Level-0 table #27: 12440 bytes OK

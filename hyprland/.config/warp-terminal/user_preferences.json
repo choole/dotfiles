@@ -1,0 +1,16 @@
+{
+  "prefs": {
+    "HonorPS1": "true",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "Shortcuts": "true",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-03-24T15:58:06.442499Z\"}",
+    "FontSize": "13.0",
+    "OverrideOpacity": "19",
+    "ExperimentId": "2cc3b120-4f8f-48a6-91f7-650c48cbda60",
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"},{\"Action\":\"WarpAI\"},{\"Action\":\"CommandSearch\"},{\"Action\":\"AiCommandSearch\"}]",
+    "AutosuggestionAcceptedCount": "2",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "DismissedWarpAIWarmWelcome": "true",
+    "Theme": "\"CyberWave\""
+  }
+}
