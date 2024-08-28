@@ -1,0 +1,47 @@
+2024-07-23T19:03:57.940Z 0: 
+
+----------------------------------------------
+2024-07-23T19:03:57.951Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/chooka/.config/discord/0.0.61/modules
+2024-07-23T19:03:57.954Z 2: ✅ webContents.created web1 ""
+2024-07-23T19:03:57.958Z 3: ✅ window.created win1 "discord"
+2024-07-23T19:03:58.237Z 4: ✅ webContents.did-finish-load web1
+2024-07-23T19:04:05.974Z 5: ✅ webContents.created web2 ""
+2024-07-23T19:04:05.987Z 6: ✅ window.created win2 "Discord"
+2024-07-23T19:04:07.749Z 7: ✅ webContents.did-finish-load web2
+2024-07-23T19:04:07.849Z 8: window.close win1
+2024-07-23T19:04:07.858Z 9: webContents.destroyed web1
+2024-07-23T19:04:07.861Z 10: window.closed win1
+2024-07-23T21:42:48.757Z 11: window.close win2
+2024-07-23T21:42:51.308Z 12: before-quit
+2024-07-23T21:42:51.316Z 13: window.close win2
+2024-07-23T21:42:51.323Z 14: webContents.destroyed web2
+2024-07-23T21:42:51.333Z 15: window.closed win2
+2024-07-29T10:55:30.636Z 0: 
+
+----------------------------------------------
+2024-07-29T10:55:30.652Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/chooka/.config/discord/0.0.61/modules
+2024-07-29T10:55:30.658Z 2: ✅ webContents.created web1 ""
+2024-07-29T10:55:30.660Z 3: ✅ window.created win1 "discord"
+2024-07-29T10:55:30.973Z 4: ✅ webContents.did-finish-load web1
+2024-07-29T10:55:31.413Z 5: ✅ webContents.created web2 ""
+2024-07-29T10:55:31.427Z 6: ✅ window.created win2 "Discord"
+2024-07-29T10:55:34.041Z 7: ✅ webContents.did-finish-load web2
+2024-07-29T10:55:34.139Z 8: window.close win1
+2024-07-29T10:55:34.147Z 9: webContents.destroyed web1
+2024-07-29T10:55:34.149Z 10: window.closed win1
+2024-07-29T19:19:06.077Z 11: window.close win2
+2024-07-30T06:38:35.495Z 12: before-quit
+2024-07-30T14:42:27.424Z 0: 
+
+----------------------------------------------
+2024-07-30T14:42:27.436Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.61"}, modulepath: /home/chooka/.config/discord/0.0.61/modules
+2024-07-30T14:42:27.440Z 2: ✅ webContents.created web1 ""
+2024-07-30T14:42:27.441Z 3: ✅ window.created win1 "discord"
+2024-07-30T14:42:27.773Z 4: ✅ webContents.did-finish-load web1
+2024-07-30T14:42:28.176Z 5: ✅ webContents.created web2 ""
+2024-07-30T14:42:28.189Z 6: ✅ window.created win2 "Discord"
+2024-07-30T14:42:30.923Z 7: ✅ webContents.did-finish-load web2
+2024-07-30T14:42:31.023Z 8: window.close win1
+2024-07-30T14:42:31.031Z 9: webContents.destroyed web1
+2024-07-30T14:42:31.033Z 10: window.closed win1
+2024-07-31T06:25:37.753Z 11: window.close win2

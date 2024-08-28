@@ -1,0 +1,4 @@
+2024/08/05-20:59:14.523 2461 Reusing MANIFEST /home/chooka/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/05-20:59:14.524 2461 Recovering log #121
+2024/08/05-20:59:14.524 2461 Reusing old log /home/chooka/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000121.log 
+2024/08/05-20:59:14.524 2461 Delete type=2 #120

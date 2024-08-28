@@ -1,0 +1,33 @@
+2024/08/04-21:46:13.643 14e7d6 Reusing MANIFEST /home/chooka/.config/chromium/Default/IndexedDB/https_newwork.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/04-21:46:13.644 14e7d6 Recovering log #3
+2024/08/04-21:46:13.652 14e7d6 Reusing old log /home/chooka/.config/chromium/Default/IndexedDB/https_newwork.atlassian.net_0.indexeddb.leveldb/000003.log 
+2024/08/04-21:46:21.626 14e7d8 Level-0 table #5: started
+2024/08/04-21:46:21.645 14e7d8 Level-0 table #5: 1705693 bytes OK
+2024/08/04-21:46:21.647 14e7d8 Delete type=0 #3
+2024/08/04-21:47:43.759 14e7d8 Level-0 table #7: started
+2024/08/04-21:47:43.778 14e7d8 Level-0 table #7: 1763282 bytes OK
+2024/08/04-21:47:43.780 14e7d8 Delete type=0 #4
+2024/08/04-21:47:43.800 14e7d8 Compacting 1@1 + 1@2 files
+2024/08/04-21:47:43.811 14e7d8 Generated table #8@1: 1560 keys, 110645 bytes
+2024/08/04-21:47:43.811 14e7d8 Compacted 1@1 + 1@2 files => 110645 bytes
+2024/08/04-21:47:43.812 14e7d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/04-21:47:43.812 14e7d8 Delete type=2 #7
+2024/08/04-21:47:43.812 14e7d8 Delete type=2 #5
+2024/08/04-21:48:23.381 14e7d7 Level-0 table #10: started
+2024/08/04-21:48:23.398 14e7d7 Level-0 table #10: 1904556 bytes OK
+2024/08/04-21:48:23.400 14e7d7 Delete type=0 #6
+2024/08/04-21:48:24.821 14e7d7 Compacting 1@1 + 1@2 files
+2024/08/04-21:48:24.833 14e7d7 Generated table #11@1: 2297 keys, 164486 bytes
+2024/08/04-21:48:24.834 14e7d7 Compacted 1@1 + 1@2 files => 164486 bytes
+2024/08/04-21:48:24.835 14e7d7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/04-21:48:24.835 14e7d7 Delete type=2 #8
+2024/08/04-21:48:24.835 14e7d7 Delete type=2 #10
+2024/08/04-21:57:19.785 14e7d7 Level-0 table #13: started
+2024/08/04-21:57:19.802 14e7d7 Level-0 table #13: 1845700 bytes OK
+2024/08/04-21:57:19.804 14e7d7 Delete type=0 #9
+2024/08/04-21:57:20.506 14e7d6 Compacting 1@1 + 1@2 files
+2024/08/04-21:57:20.521 14e7d6 Generated table #14@1: 2944 keys, 244416 bytes
+2024/08/04-21:57:20.521 14e7d6 Compacted 1@1 + 1@2 files => 244416 bytes
+2024/08/04-21:57:20.522 14e7d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/04-21:57:20.523 14e7d6 Delete type=2 #13
+2024/08/04-21:57:20.523 14e7d6 Delete type=2 #11

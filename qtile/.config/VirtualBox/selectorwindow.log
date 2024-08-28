@@ -1,0 +1,28 @@
+00:00:00.408063 VirtualBox GUI VM Selector Window 7.0.20 r163906 linux.amd64 (Jul 16 2024 13:33:48) release log
+00:00:00.408065 Log opened 2024-08-26T10:25:44.417776000Z
+00:00:00.408065 Build Type: release
+00:00:00.408067 OS Product: Linux
+00:00:00.408068 OS Release: 6.10.6-arch1-1
+00:00:00.408069 OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 19 Aug 2024 17:02:39 +0000
+00:00:00.408100 DMI Product Name: HP ENVY x360 Convertible 15-eu0xxx
+00:00:00.408111 DMI Product Version: 
+00:00:00.408116 Firmware type: UEFI
+00:00:00.408248 Secure Boot: Disabled
+00:00:00.408296 Host RAM: 15309MB (14.9GB) total, 12444MB (12.1GB) available
+00:00:00.408298 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.408299 Process ID: 176443
+00:00:00.408299 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.408335 Qt version: 5.15.14
+00:00:00.409383 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.414823 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.414856 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.018122 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 10x61 x 1900x1009
+00:00:49.200942 GUI: UIMediumEnumerator: Medium with key={{1d209788-721f-4ef3-812b-d62810f403f3}} created
+00:00:49.311203 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:52.875634 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:55.548794 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:31.455912 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:53.875917 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:56.954601 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:22.982496 GUI: UICommon: Handling aboutToQuit request..
+00:08:23.991216 GUI: UICommon: aboutToQuit request handled!

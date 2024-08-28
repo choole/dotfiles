@@ -1,0 +1,5 @@
+2024/08/26-12:38:25.734 97f Reusing MANIFEST /home/chooka/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2024/08/26-12:38:25.735 97f Recovering log #545
+2024/08/26-12:38:25.748 97f Level-0 table #548: started
+2024/08/26-12:38:25.760 97f Level-0 table #548: 696370 bytes OK
+2024/08/26-12:38:25.762 97f Delete type=0 #545

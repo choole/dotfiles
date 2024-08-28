@@ -1,0 +1,91 @@
+{
+   "checksum": "156f2bdbb25fe2a29b3ae3f68b955af1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13363362293772869",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13363375241139815",
+            "date_last_used": "0",
+            "guid": "06ab9515-aa1d-4813-9b0b-6202d65a4893",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "FABRIK4.X_Upgrade Instructions (F3->F4) | Fabrik Forum",
+            "type": "url",
+            "url": "https://fabrikar.com/forums/index.php?wiki/upgrade-instructions/"
+         }, {
+            "date_added": "13363375269610157",
+            "date_last_used": "13365014153681179",
+            "guid": "d97d719f-260e-4e43-bf71-a3422c9553ed",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JOOMLA_FIXES/Potential backward compatibility issues in Joomla 4 - Joomla! Documentation",
+            "type": "url",
+            "url": "https://docs.joomla.org/Potential_backward_compatibility_issues_in_Joomla_4"
+         }, {
+            "date_added": "13363791916566394",
+            "date_last_used": "13365014332267306",
+            "guid": "c7ef2070-6b19-4b64-be9f-0bace82cecb1",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Adjust a Joomla 3 template to work with J!4 - Joomla! Forum - community, help and support",
+            "type": "url",
+            "url": "https://forum.joomla.org/viewtopic.php?t=991483"
+         }, {
+            "date_added": "13365250548368490",
+            "date_last_used": "0",
+            "guid": "8c66a7db-bef2-4880-aea1-71c36735d9a1",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "K2 to Content Migration - JoomHelper.com",
+            "type": "url",
+            "url": "https://joomhelper.com/k2-to-content"
+         }, {
+            "date_added": "13366583007133097",
+            "date_last_used": "0",
+            "guid": "75bd604b-ecad-4917-909b-6db66bb7f215",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Error: 500",
+            "type": "url",
+            "url": "https://skiclub-schoeneck.de/administrator/index.php?option=com_k2&view=item&cid=8"
+         } ],
+         "date_added": "13363362293772875",
+         "date_last_used": "0",
+         "date_modified": "13366583007133097",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13363362293772877",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,6 @@
+2024/07/30-16:42:27.298 6c937 Reusing MANIFEST /home/chooka/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/30-16:42:27.307 6c937 Recovering log #33
+2024/07/30-16:42:27.308 6c937 Reusing old log /home/chooka/.config/discord/Local Storage/leveldb/000033.log 
+2024/07/30-16:46:33.061 6c938 Level-0 table #37: started
+2024/07/30-16:46:33.083 6c938 Level-0 table #37: 3205177 bytes OK
+2024/07/30-16:46:33.084 6c938 Delete type=0 #33

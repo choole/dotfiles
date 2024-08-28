@@ -1,0 +1,6 @@
+2024/08/04-21:52:32.391 14e7d6 Reusing MANIFEST /home/chooka/.config/chromium/Default/IndexedDB/https_newwork-team.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/04-21:52:32.391 14e7d6 Recovering log #3
+2024/08/04-21:52:32.397 14e7d6 Reusing old log /home/chooka/.config/chromium/Default/IndexedDB/https_newwork-team.atlassian.net_0.indexeddb.leveldb/000003.log 
+2024/08/04-21:57:27.873 14e7e3 Level-0 table #5: started
+2024/08/04-21:57:27.893 14e7e3 Level-0 table #5: 1720596 bytes OK
+2024/08/04-21:57:27.896 14e7e3 Delete type=0 #3

@@ -1,0 +1,13 @@
+2024/08/05-21:07:38.418 2460 Reusing MANIFEST /home/chooka/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/05-21:07:38.418 2460 Recovering log #121
+2024/08/05-21:07:38.419 2460 Reusing old log /home/chooka/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000121.log 
+2024/08/05-21:07:38.432 2462 Level-0 table #126: started
+2024/08/05-21:07:38.433 2462 Level-0 table #126: 1232 bytes OK
+2024/08/05-21:07:38.435 2462 Delete type=0 #121
+2024/08/05-21:07:38.435 2460 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at '\x00(\x00\x00\x05' @ 877 : 1
+2024/08/05-21:07:38.435 2460 Compacting 1@0 + 1@1 files
+2024/08/05-21:07:38.437 2460 Generated table #127@0: 37 keys, 1245 bytes
+2024/08/05-21:07:38.437 2460 Compacted 1@0 + 1@1 files => 1245 bytes
+2024/08/05-21:07:38.438 2460 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/05-21:07:38.438 2460 Delete type=2 #126
+2024/08/05-21:07:38.438 2460 Manual compaction at level-0 from '\x00(\x00\x00\x05' @ 877 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)

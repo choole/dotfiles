@@ -1,0 +1,21 @@
+2024/08/26-19:40:29.700 26640 Reusing MANIFEST /home/chooka/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2024/08/26-19:40:29.700 26640 Recovering log #549
+2024/08/26-19:40:29.700 26640 Reusing old log /home/chooka/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000549.log 
+2024/08/26-19:41:41.179 26ee2 Level-0 table #552: started
+2024/08/26-19:41:41.194 26ee2 Level-0 table #552: 516140 bytes OK
+2024/08/26-19:41:41.196 26ee2 Delete type=0 #549
+2024/08/26-19:42:31.479 26ee2 Level-0 table #554: started
+2024/08/26-19:42:31.490 26ee2 Level-0 table #554: 294003 bytes OK
+2024/08/26-19:42:31.492 26ee2 Delete type=0 #551
+2024/08/26-19:42:31.493 26ee2 Compacting 4@0 + 1@1 files
+2024/08/26-19:42:31.512 26ee2 Generated table #555@0: 387 keys, 902690 bytes
+2024/08/26-19:42:31.512 26ee2 Compacted 4@0 + 1@1 files => 902690 bytes
+2024/08/26-19:42:31.513 26ee2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/26-19:42:31.514 26ee2 Delete type=2 #544
+2024/08/26-19:42:31.514 26ee2 Delete type=2 #554
+2024/08/26-19:42:31.514 26ee2 Delete type=2 #548
+2024/08/26-19:42:31.514 26ee2 Delete type=2 #552
+2024/08/26-19:42:31.514 26ee2 Delete type=2 #546
+2024/08/26-20:51:54.174 26ee2 Level-0 table #557: started
+2024/08/26-20:51:54.182 26ee2 Level-0 table #557: 36960 bytes OK
+2024/08/26-20:51:54.183 26ee2 Delete type=0 #553

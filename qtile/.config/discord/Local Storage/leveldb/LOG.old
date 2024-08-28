@@ -1,0 +1,6 @@
+2024/07/29-12:55:30.506 438d Reusing MANIFEST /home/chooka/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/29-12:55:30.515 438d Recovering log #28
+2024/07/29-12:55:30.517 438d Reusing old log /home/chooka/.config/discord/Local Storage/leveldb/000028.log 
+2024/07/29-21:11:45.549 438e Level-0 table #34: started
+2024/07/29-21:11:45.578 438e Level-0 table #34: 3203011 bytes OK
+2024/07/29-21:11:45.580 438e Delete type=0 #28

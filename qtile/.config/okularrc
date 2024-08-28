@@ -1,0 +1,34 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/sampleExam.pdf
+File10[$e]=$HOME/Documents/ClimateChange/FinalProject_Talk.pdf
+File2[$e]=$HOME/work/k2_all_enabled.png
+File3[$e]=$HOME/work/email_conf_1.png
+File4[$e]=$HOME/Documents/Mail/Personalstammblatt_NewWork_2023.pdf
+File5[$e]=$HOME/work/june2024_schedule.pdf
+File6[$e]=$HOME/Documents/ClimateChange/ComplementaryFieldsCWHarticle2016.pdf
+File7[$e]=$HOME/Documents/ClimateChange/The Environmental Effects of War.pdf
+File8[$e]=$HOME/Documents/ClimateChange/Impact of WWI on Forests and Soil in Europe.pdf
+File9[$e]=$HOME/Documents/ClimateChange/1-s2.0-S004896972402117X-main.pdf
+Name1[$e]=sampleExam.pdf
+Name10[$e]=FinalProject_Talk.pdf
+Name2[$e]=k2_all_enabled.png
+Name3[$e]=email_conf_1.png
+Name4[$e]=Personalstammblatt_NewWork_2023.pdf
+Name5[$e]=june2024_schedule.pdf
+Name6[$e]=ComplementaryFieldsCWHarticle2016.pdf
+Name7[$e]=The Environmental Effects of War.pdf
+Name8[$e]=Impact of WWI on Forests and Soil in Europe.pdf
+Name9[$e]=1-s2.0-S004896972402117X-main.pdf

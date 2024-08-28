@@ -1,0 +1,17 @@
+2024/08/19-20:39:17.020 d12 Reusing MANIFEST /home/chooka/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/19-20:39:17.021 d12 Recovering log #504
+2024/08/19-20:39:17.024 d12 Reusing old log /home/chooka/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000504.log 
+2024/08/19-20:39:30.349 1092 Manual compaction at level-0 from '\x00l\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00m\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/19-20:39:37.435 1092 Level-0 table #512: started
+2024/08/19-20:39:37.446 1092 Level-0 table #512: 1718644 bytes OK
+2024/08/19-20:39:37.447 1092 Delete type=0 #504
+2024/08/19-20:50:16.986 1092 Level-0 table #514: started
+2024/08/19-20:50:16.988 1092 Level-0 table #514: 50439 bytes OK
+2024/08/19-20:50:16.989 1092 Delete type=0 #511
+2024/08/19-20:50:16.989 1092 Manual compaction at level-0 from '\x00m\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at '\x00m\x00\x00\x05' @ 428757 : 1
+2024/08/19-20:50:16.989 1092 Compacting 1@0 + 1@1 files
+2024/08/19-20:50:16.997 1092 Generated table #515@0: 4185 keys, 492627 bytes
+2024/08/19-20:50:16.997 1092 Compacted 1@0 + 1@1 files => 492627 bytes
+2024/08/19-20:50:16.998 1092 compacted to: files[ 0 1 4 0 0 0 0 ]
+2024/08/19-20:50:16.998 1092 Delete type=2 #514
+2024/08/19-20:50:16.998 1092 Manual compaction at level-0 from '\x00m\x00\x00\x05' @ 428757 : 1 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at (end)

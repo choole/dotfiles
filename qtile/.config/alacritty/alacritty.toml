@@ -1,0 +1,36 @@
+import = [
+  "~/.config/alacritty/colors.yml",
+  "~/.config/alacritty/fonts.yml"
+]
+live_config_reload = true
+
+[env]
+TERM = "alacritty"
+WINIT_X11_SCALE_FACTOR = "1.0"
+
+[window]
+decorations = "full"
+startup_mode = "Windowed"
+dynamic_title = true
+history = 10_000
+multiplier = 3
+opacity = 1
+
+  [window.dimensions]
+  columns = 82
+  lines = 24
+
+  [window.padding]
+  x = 30
+  y = 30
+
+[cursor]
+unfocused_hollow = false
+
+  [cursor.style]
+  shape = "Block"
+  blinking = "On"
+
+[colors]
+background = "#282738"
+

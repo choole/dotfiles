@@ -1,0 +1,6 @@
+2023/08/13-00:28:20.002 2ece Creating DB /home/arch_enjoyer/.config/obsidian/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/08/13-00:28:20.004 2ece Reusing MANIFEST /home/arch_enjoyer/.config/obsidian/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/13-00:28:26.964 2ecd Level-0 table #5: started
+2023/08/13-00:28:26.966 2ecd Level-0 table #5: 8128 bytes OK
+2023/08/13-00:28:26.967 2ecd Delete type=0 #3
+2023/08/13-00:28:26.967 2ecd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
